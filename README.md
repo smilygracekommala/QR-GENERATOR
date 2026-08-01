@@ -33,7 +33,7 @@ git clone https://github.com/smilygracekommala/QR-GENERATOR.git
 <br><br>
 After clicking on Generate Button, UI looks like:
 
-<img src="./Screenshots/screenshot.png" />
+<img src="./screenshot.png" />
 
 
 
