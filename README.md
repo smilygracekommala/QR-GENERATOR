@@ -33,7 +33,7 @@ git clone https://github.com/smilygracekommala/QR-GENERATOR.git
 <br><br>
 After clicking on Generate Button, UI looks like:
 
-<img src="/home/user/Pictures/Screenshots/Screenshot from 2026-08-01 21-04-21.png" />
+<img src="./Screenshots/screenshot.png" />
 
 
 
